@@ -1,0 +1,56 @@
+{
+    "squares": [
+        {
+            "points": [
+                [
+                    1221.0,
+                    729.0
+                ],
+                [
+                    1271.0,
+                    729.0
+                ],
+                [
+                    1271.0,
+                    779.0
+                ],
+                [
+                    1221.0,
+                    779.0
+                ]
+            ],
+            "index": 1,
+            "click_count": 1,
+            "key": null,
+            "time_seconds": 0
+        },
+        {
+            "points": [
+                [
+                    1023.0,
+                    719.0
+                ],
+                [
+                    1073.0,
+                    719.0
+                ],
+                [
+                    1073.0,
+                    769.0
+                ],
+                [
+                    1023.0,
+                    769.0
+                ]
+            ],
+            "index": 2,
+            "click_count": 1,
+            "key": null,
+            "time_seconds": 2
+        }
+    ],
+    "timer_seconds": 2,
+    "original_timer_seconds": 2,
+    "timer_repeat": false,
+    "slider_state": false
+}
